@@ -1,0 +1,3 @@
+export const PAYMENT_METHOD_CASH = "CASH";
+export const PAYMENT_METHOD_CARD = "METHOD_CARD";
+export const PAYMENT_METHOD_ONLINE = "ONLINE";
