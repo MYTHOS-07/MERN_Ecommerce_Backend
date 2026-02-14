@@ -1,6 +1,6 @@
 ## MERN Backend (Express + MongoDB)
 
-An ecommerce-style backend built with Express and MongoDB. It follows a layered structure (routes -> controllers -> services -> models) and includes authentication, role-based access, product management, orders, and payment integrations.
+An ecommerce backend built with Express and MongoDB. It follows a layered structure (routes -> controllers -> services -> models) and includes authentication, role-based access, product management, orders, and payment integrations.
 
 ## What this project does
 
