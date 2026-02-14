@@ -28,7 +28,6 @@ An ecommerce backend built with Express and MongoDB. It follows a layered struct
 
 ```
 Backend/
-	Express_note.md
 	package.json
 	README.md
 	vercel.json
