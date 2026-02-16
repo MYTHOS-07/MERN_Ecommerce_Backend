@@ -3,6 +3,9 @@ import { createJWT } from "../utils/jwt.js";
 
 const login = async (req, res) => {
   const input = req.body;
+
+
+
   try {
     if (!input) {
       return res.status(400).send("Required data are missing");
